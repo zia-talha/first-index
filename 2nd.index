@@ -1,0 +1,10 @@
+public class sum {
+	Run|Debug
+	public static void main(string[] args)
+		int x = 5;
+		int y = 8;
+		int z = 9;
+		system.out.print(a+b+c);
+	}
+}
+[r
